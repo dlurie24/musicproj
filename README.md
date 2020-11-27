@@ -4,4 +4,4 @@ A command line script I use to create a neat folder structure for my music proje
 
 I used the os and argparse libraries to create a Python script that uses numerous arguments.
 
-I made a terminal command by adding `alias mproj="python <\path>/musicproj.py` to my .zshrc.
+I made a terminal command by adding `alias mproj="python <\path>/musicproj.py` to my .zshrc file.

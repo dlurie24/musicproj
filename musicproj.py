@@ -31,7 +31,6 @@ def run():
   cmds = parse_args(parser)
   run_commands(cmds)
 
-
 def make_parser():
   parser = argparse.ArgumentParser(description="Make a new music project")
   parser.add_argument('name', type=str, nargs="?", help="a name for the project")
